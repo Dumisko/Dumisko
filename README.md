@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Weather App, todo application, News Portal**
 - 🌱 I’m currently learning **Advanced React, Machine Learning, and Cloud Deployment**
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, React, Node.js**
-- 📫 How to reach me: **saikatshasmal@example.com**
+- 📫 How to reach me: **s.shasmal1980@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems with code!
 
 ---
@@ -33,15 +33,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dumisko&show_icons=true&theme=react&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumisko&layout=compact&theme=react" height="150"/>   
-</p>
-
-
----
-
-### 📊 GitHub Activity Graph
-
-  <p align="center">
-  <img src="https://github-activity-graph-render.vercel.app/graph?username=Dumisko&theme=react-dark" />
 </p>
 
 ---
