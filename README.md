@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dumisko&theme=react-dark" />
+  <p align="center">
+  <img src="https://github-activity-graph-render.vercel.app/graph?username=Dumisko&theme=react-dark" />
 </p>
 
 ---
