@@ -15,12 +15,16 @@
 
 ---
 
-### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,tailwind,python,git,github,cpp,vscode,mysql,sqlite" />
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,cpp,python,html,css,react,nodejs,express" />
 
-</p>
+### 🛢️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode" />
+
+### 🎨 Styling
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
 
 ---
 
@@ -36,7 +40,7 @@
 ### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikatshasmal&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dumisko&theme=react-dark" />
 </p>
 
 ---
