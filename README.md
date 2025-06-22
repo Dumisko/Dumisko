@@ -22,8 +22,6 @@
 ### 🛢️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode" />
 
-### 🎨 Styling
-<img src="https://skillicons.dev/icons?i=tailwind" />
 
 
 ---
